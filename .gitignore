@@ -1,0 +1,13 @@
+# Ignore Visual Studio files
+.vs/
+*.vcxproj.user
+*.VC.db
+*.suo
+*.ipch/
+*.obj
+*.pch
+*.exe
+*.log
+*.pdb
+*.idb
+*.class
