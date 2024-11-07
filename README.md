@@ -1,4 +1,5 @@
 # LineUp Management System in C++
+![Queue System Image](https://github.com/Amer-css/LineUp-Project/blob/main/queue-system-qms-system-service-counter-scenario-0.jpg?raw=true)
 
 This C++ project implements an object-oriented queue management system designed to issue tickets, estimate waiting times, display queue details, and serve customers in sequence. It's ideal for applications that require customer queue management, such as banks or hospitals.
 
